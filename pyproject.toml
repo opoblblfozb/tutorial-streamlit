@@ -2,7 +2,7 @@
 name = "tutorial-streamlit"
 version = "0.1.0"
 description = ""
-authors = ["Kenya Nonaka <kenya.nonaka@uzabase.com>"]
+authors = ["opoblblfozb@gmail.com"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
